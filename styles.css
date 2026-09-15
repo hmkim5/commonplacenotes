@@ -1,7 +1,7 @@
 /* Reset default styles */
 * {
-	margin: 0;
-	padding: 0;
+	margin: 5;
+	padding: 5;
 	box-sizing: border-box;
 }
 
@@ -9,9 +9,9 @@
 body {
 	font-family: Arial, sans-serif;
 	font-size: 16px;
-	line-height: 1.5;
-	background-color: #f7f7f7;
-	color: #333;
+	line-height: 3;
+	background-color: #f4f1e7;
+	color: #413151;
 }
 
 /* Header styles */
@@ -21,8 +21,8 @@ header {
 	align-items: center;
 	justify-content: space-between;
 	padding: 20px;
-	background-color: #fff;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	background-color: #f4f1e7;
+	/*box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);*/
 }
 
 header h1 {
@@ -48,7 +48,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #007bff;
+	color: #9b5ba2;
 }
 
 /* Main styles */
