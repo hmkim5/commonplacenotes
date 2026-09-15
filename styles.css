@@ -137,3 +137,11 @@ footer p {
 .carousel .carousel-indicators {
   display: none;
 }
+
+.box {
+	place-items: center;
+  	background-color: #e1cd9b; 
+  	max-width: 500px; 
+  	border-radius: 8px;
+	margin: 18px auto;
+}
